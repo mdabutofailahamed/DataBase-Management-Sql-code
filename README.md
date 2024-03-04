@@ -1,1 +1,1 @@
-# DataBase-Management-Sql-code
+# DataBase-Management-Sql-code(DBMS)
